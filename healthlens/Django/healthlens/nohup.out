@@ -1,0 +1,297 @@
+Watching for file changes with StatReloader
+2025-04-04 11:40:59.370440: I external/local_xla/xla/tsl/cuda/cudart_stub.cc:32] Could not find cuda drivers on your machine, GPU will not be used.
+2025-04-04 11:40:59.702455: I external/local_xla/xla/tsl/cuda/cudart_stub.cc:32] Could not find cuda drivers on your machine, GPU will not be used.
+2025-04-04 11:41:00.035645: E external/local_xla/xla/stream_executor/cuda/cuda_fft.cc:477] Unable to register cuFFT factory: Attempting to register factory for plugin cuFFT when one has already been registered
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+E0000 00:00:1743766860.286024    2008 cuda_dnn.cc:8310] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+E0000 00:00:1743766860.357677    2008 cuda_blas.cc:1418] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+2025-04-04 11:41:01.004649: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 AVX512F FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2025-04-04 11:41:08.159529: E external/local_xla/xla/stream_executor/cuda/cuda_driver.cc:152] failed call to cuInit: INTERNAL: CUDA error: Failed call to cuInit: UNKNOWN ERROR (303)
+2025-04-04 11:41:08.334138: W external/local_xla/xla/tsl/framework/cpu_allocator_impl.cc:83] Allocation of 75759616 exceeds 10% of free system memory.
+2025-04-04 11:41:08.504065: W external/local_xla/xla/tsl/framework/cpu_allocator_impl.cc:83] Allocation of 75759616 exceeds 10% of free system memory.
+2025-04-04 11:41:08.573520: W external/local_xla/xla/tsl/framework/cpu_allocator_impl.cc:83] Allocation of 75759616 exceeds 10% of free system memory.
+2025-04-04 11:41:08.705762: W external/local_xla/xla/tsl/framework/cpu_allocator_impl.cc:83] Allocation of 75759616 exceeds 10% of free system memory.
+2025-04-04 11:41:08.747035: W external/local_xla/xla/tsl/framework/cpu_allocator_impl.cc:83] Allocation of 75759616 exceeds 10% of free system memory.
+HTTP GET /admin 301 [0.04, 154.72.202.36:27760]
+HTTP GET /admin/ 302 [0.03, 154.72.202.36:27760]
+HTTP GET /admin/login/?next=/admin/ 200 [0.21, 154.72.202.36:27760]
+HTTP GET /static/admin/css/dark_mode.css 200 [0.02, 154.72.202.36:13482]
+HTTP GET /static/admin/css/base.css 200 [0.02, 154.72.202.36:27760]
+HTTP GET /static/admin/css/login.css 200 [0.01, 154.72.202.36:24336]
+HTTP GET /static/admin/js/theme.js 200 [0.01, 154.72.202.36:14152]
+HTTP GET /static/admin/css/nav_sidebar.css 200 [0.01, 154.72.202.36:1586]
+HTTP GET /static/admin/css/responsive.css 200 [0.01, 154.72.202.36:38283]
+HTTP GET /static/admin/js/nav_sidebar.js 200 [0.00, 154.72.202.36:38283]
+Not Found: /favicon.ico
+HTTP GET /favicon.ico 404 [0.01, 154.72.202.36:38283]
+/home/ubuntu/healthlens/Django/healthlens/healthlens/settings.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+April 04, 2025 - 11:41:22
+Django version 5.1.6, using settings 'healthlens.settings'
+Starting ASGI/Daphne version 4.1.2 development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+Watching for file changes with StatReloader
+2025-04-04 11:47:30.856007: I external/local_xla/xla/tsl/cuda/cudart_stub.cc:32] Could not find cuda drivers on your machine, GPU will not be used.
+2025-04-04 11:47:31.158701: I external/local_xla/xla/tsl/cuda/cudart_stub.cc:32] Could not find cuda drivers on your machine, GPU will not be used.
+2025-04-04 11:47:31.386562: E external/local_xla/xla/stream_executor/cuda/cuda_fft.cc:477] Unable to register cuFFT factory: Attempting to register factory for plugin cuFFT when one has already been registered
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+E0000 00:00:1743767251.558325    2055 cuda_dnn.cc:8310] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+E0000 00:00:1743767251.615035    2055 cuda_blas.cc:1418] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+2025-04-04 11:47:32.120298: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 AVX512F FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2025-04-04 11:47:38.086196: E external/local_xla/xla/stream_executor/cuda/cuda_driver.cc:152] failed call to cuInit: INTERNAL: CUDA error: Failed call to cuInit: UNKNOWN ERROR (303)
+2025-04-04 11:47:38.214030: W external/local_xla/xla/tsl/framework/cpu_allocator_impl.cc:83] Allocation of 75759616 exceeds 10% of free system memory.
+2025-04-04 11:47:38.378443: W external/local_xla/xla/tsl/framework/cpu_allocator_impl.cc:83] Allocation of 75759616 exceeds 10% of free system memory.
+2025-04-04 11:47:38.452240: W external/local_xla/xla/tsl/framework/cpu_allocator_impl.cc:83] Allocation of 75759616 exceeds 10% of free system memory.
+2025-04-04 11:47:38.602337: W external/local_xla/xla/tsl/framework/cpu_allocator_impl.cc:83] Allocation of 75759616 exceeds 10% of free system memory.
+2025-04-04 11:47:38.643052: W external/local_xla/xla/tsl/framework/cpu_allocator_impl.cc:83] Allocation of 75759616 exceeds 10% of free system memory.
+HTTP OPTIONS /api/auth/register/ 200 [0.48, 154.72.202.36:37433]
+Unauthorized: /api/auth/verify/
+HTTP GET /api/auth/verify/ 401 [1.33, 154.72.202.36:46326]
+HTTP POST /api/auth/register/ 201 [3.50, 154.72.202.36:37433]
+HTTP OPTIONS /api/auth/verify/ 200 [0.03, 154.72.202.36:37433]
+HTTP OPTIONS /api/auth/verify/ 200 [0.05, 154.72.202.36:22449]
+HTTP GET /api/auth/verify/ 200 [0.45, 154.72.202.36:37433]
+HTTP GET /api/auth/verify/ 200 [0.37, 154.72.202.36:22449]
+HTTP GET /api/auth/verify/ 200 [0.37, 154.72.202.36:37433]
+HTTP OPTIONS /api/aimodels/previous_results/ 200 [0.01, 154.72.202.36:37433]
+HTTP GET /api/auth/verify/ 200 [0.12, 154.72.202.36:22449]
+WebSocket HANDSHAKING /ws/video/ [154.72.202.36:24607]
+HTTP OPTIONS /api/aimodels/previous_results/ 200 [0.11, 154.72.202.36:47760]
+WebSocket CONNECT /ws/video/ [154.72.202.36:24607]
+HTTP GET /api/aimodels/previous_results/ 200 [0.15, 154.72.202.36:37433]
+HTTP GET /api/aimodels/previous_results/ 200 [0.04, 154.72.202.36:47760]
+WebSocket HANDSHAKING /ws/video/ [154.72.202.36:11576]
+WebSocket CONNECT /ws/video/ [154.72.202.36:11576]
+Unauthorized: /api/auth/verify/
+HTTP GET /api/auth/verify/ 401 [0.01, 154.72.202.36:32542]
+Unauthorized: /api/auth/verify/
+HTTP GET /api/auth/verify/ 401 [0.01, 154.72.202.36:32542]
+Unauthorized: /api/auth/verify/
+HTTP GET /api/auth/verify/ 401 [0.03, 154.72.202.36:37705]
+Unauthorized: /api/auth/verify/
+HTTP GET /api/auth/verify/ 401 [0.01, 154.72.202.36:37705]
+HTTP OPTIONS /api/auth/token/refresh/ 200 [0.00, 154.72.202.36:61884]
+HTTP OPTIONS /api/auth/token/refresh/ 200 [0.00, 154.72.202.36:5731]
+Unauthorized: /api/auth/verify/
+HTTP GET /api/auth/verify/ 401 [0.01, 154.72.202.36:37705]
+Not Found: /api/auth/token/refresh/
+HTTP POST /api/auth/token/refresh/ 404 [0.15, 154.72.202.36:61884]
+Not Found: /api/auth/token/refresh/
+Not Found: /api/auth/token/refresh/
+HTTP POST /api/auth/token/refresh/ 404 [0.14, 154.72.202.36:37705]
+HTTP POST /api/auth/token/refresh/ 404 [0.15, 154.72.202.36:5731]
+WebSocket DISCONNECT /ws/video/ [154.72.202.36:11576]
+WebSocket DISCONNECT /ws/video/ [154.72.202.36:24607]
+Unauthorized: /api/auth/verify/
+HTTP GET /api/auth/verify/ 401 [0.01, 154.72.202.36:13596]
+Unauthorized: /api/auth/verify/
+HTTP GET /api/auth/verify/ 401 [0.01, 154.72.202.36:13596]
+Unauthorized: /api/auth/verify/
+HTTP GET /api/auth/verify/ 401 [0.01, 154.72.202.36:13596]
+Unauthorized: /api/auth/verify/
+HTTP GET /api/auth/verify/ 401 [0.01, 154.72.202.36:13596]
+HTTP OPTIONS /api/auth/login/ 200 [0.00, 154.72.202.36:10619]
+HTTP POST /api/auth/login/ 200 [0.88, 154.72.202.36:10619]
+HTTP GET /api/auth/verify/ 200 [0.04, 154.72.202.36:36561]
+HTTP GET /api/auth/verify/ 200 [0.03, 154.72.202.36:36561]
+HTTP GET /api/aimodels/previous_results/ 200 [0.03, 154.72.202.36:26850]
+WebSocket HANDSHAKING /ws/video/ [154.72.202.36:25986]
+WebSocket CONNECT /ws/video/ [154.72.202.36:25986]
+HTTP GET /api/aimodels/previous_results/ 200 [0.02, 154.72.202.36:36561]
+WebSocket HANDSHAKING /ws/video/ [154.72.202.36:37593]
+WebSocket CONNECT /ws/video/ [154.72.202.36:37593]
+HTTP GET /api/auth/verify/ 200 [0.02, 154.72.202.36:36561]
+HTTP OPTIONS /api/available-users/ 200 [0.00, 154.72.202.36:36561]
+HTTP GET /api/auth/verify/ 200 [0.02, 154.72.202.36:26850]
+HTTP GET /api/available-users/ 200 [0.03, 154.72.202.36:36561]
+HTTP GET /api/auth/verify/ 200 [0.03, 154.72.202.36:1150]
+HTTP GET /api/available-users/ 200 [0.02, 154.72.202.36:26850]
+HTTP GET /api/available-users/ 200 [0.05, 154.72.202.36:1150]
+HTTP GET /api/auth/verify/ 200 [0.02, 154.72.202.36:1150]
+HTTP GET /api/auth/verify/ 200 [0.03, 154.72.202.36:26850]
+HTTP GET /api/available-users/ 200 [0.03, 154.72.202.36:1150]
+HTTP GET /api/available-users/ 200 [0.04, 154.72.202.36:26850]
+HTTP GET /api/auth/verify/ 200 [0.05, 154.72.202.36:26850]
+HTTP OPTIONS /api/reports/patient/1/ 200 [0.00, 154.72.202.36:26850]
+HTTP GET /api/auth/verify/ 200 [0.07, 154.72.202.36:1150]
+Not Found: /api/reports/patient/1/
+HTTP GET /api/reports/patient/1/ 404 [0.06, 154.72.202.36:26850]
+Not Found: /api/reports/patient/1/
+HTTP GET /api/reports/patient/1/ 404 [0.08, 154.72.202.36:1150]
+HTTP OPTIONS /api/user/profile/ 200 [0.00, 154.72.202.36:6024]
+HTTP OPTIONS /api/user/profile/ 200 [0.00, 154.72.202.36:31579]
+HTTP GET /api/user/profile/ 200 [0.04, 154.72.202.36:31579]
+HTTP GET /api/user/profile/ 200 [0.04, 154.72.202.36:6024]
+HTTP GET /api/auth/verify/ 200 [0.04, 154.72.202.36:6024]
+HTTP OPTIONS /api/user/ 200 [0.00, 154.72.202.36:6024]
+HTTP GET /api/auth/verify/ 200 [0.04, 154.72.202.36:31579]
+HTTP GET /api/user/ 200 [0.04, 154.72.202.36:6024]
+HTTP OPTIONS /api/appointments/ 200 [0.00, 154.72.202.36:6024]
+HTTP GET /api/user/ 200 [0.05, 154.72.202.36:31579]
+HTTP GET /api/appointments/ 200 [0.03, 154.72.202.36:6024]
+HTTP GET /api/appointments/ 200 [0.02, 154.72.202.36:31579]
+HTTP GET /api/appointments/ 200 [0.04, 154.72.202.36:31579]
+HTTP GET /api/appointments/ 200 [0.02, 154.72.202.36:31579]
+HTTP GET /api/appointments/ 200 [0.02, 154.72.202.36:21319]
+HTTP GET /api/appointments/ 200 [0.03, 154.72.202.36:21319]
+HTTP GET /api/appointments/ 200 [0.02, 154.72.202.36:21319]
+HTTP GET /api/appointments/ 200 [0.02, 154.72.202.36:52587]
+HTTP GET /api/appointments/ 200 [0.04, 154.72.202.36:52587]
+HTTP GET /api/appointments/ 200 [0.03, 154.72.202.36:52587]
+HTTP GET /api/appointments/ 200 [0.04, 154.72.202.36:52587]
+HTTP GET /api/appointments/ 200 [0.04, 154.72.202.36:57971]
+HTTP GET /api/appointments/ 200 [0.03, 154.72.202.36:57971]
+HTTP GET /api/appointments/ 200 [0.03, 154.72.202.36:57971]
+HTTP GET /api/appointments/ 200 [0.02, 154.72.202.36:58785]
+HTTP GET /api/appointments/ 200 [0.02, 154.72.202.36:58785]
+HTTP GET /api/appointments/ 200 [0.03, 154.72.202.36:10081]
+HTTP GET /api/appointments/ 200 [0.02, 154.72.202.36:48515]
+HTTP GET /api/appointments/ 200 [0.03, 154.72.202.36:48515]
+HTTP GET /api/appointments/ 200 [0.04, 154.72.202.36:48515]
+HTTP GET /api/appointments/ 200 [0.06, 154.72.202.36:48515]
+HTTP GET /api/appointments/ 200 [0.04, 154.72.202.36:61279]
+HTTP GET /api/appointments/ 200 [0.02, 154.72.202.36:61279]
+HTTP GET /api/appointments/ 200 [0.02, 154.72.202.36:61279]
+WebSocket DISCONNECT /ws/video/ [154.72.202.36:25986]
+WebSocket DISCONNECT /ws/video/ [154.72.202.36:37593]
+WebSocket HANDSHAKING /ws/video/ [154.72.202.36:45323]
+WebSocket REJECT /ws/video/ [154.72.202.36:45323]
+WebSocket DISCONNECT /ws/video/ [154.72.202.36:45323]
+WebSocket HANDSHAKING /ws/video/ [154.72.202.36:5413]
+WebSocket REJECT /ws/video/ [154.72.202.36:5413]
+WebSocket DISCONNECT /ws/video/ [154.72.202.36:5413]
+Unauthorized: /api/auth/verify/
+HTTP GET /api/auth/verify/ 401 [1.13, 154.72.202.36:8796]
+Unauthorized: /api/auth/verify/
+HTTP GET /api/auth/verify/ 401 [0.03, 154.72.202.36:8796]
+Not Found: /api/auth/token/refresh/
+Not Found: /api/auth/token/refresh/
+HTTP POST /api/auth/token/refresh/ 404 [0.36, 154.72.202.36:41850]
+HTTP POST /api/auth/token/refresh/ 404 [0.36, 154.72.202.36:8796]
+HTTP POST /api/auth/login/ 200 [1.54, 154.72.202.36:8796]
+HTTP GET /api/auth/verify/ 200 [0.04, 154.72.202.36:8796]
+HTTP GET /api/auth/verify/ 200 [0.02, 154.72.202.36:41850]
+HTTP GET /api/aimodels/previous_results/ 200 [0.08, 154.72.202.36:8796]
+WebSocket HANDSHAKING /ws/video/ [154.72.202.36:65396]
+WebSocket CONNECT /ws/video/ [154.72.202.36:65396]
+HTTP GET /api/aimodels/previous_results/ 200 [0.12, 154.72.202.36:41850]
+WebSocket HANDSHAKING /ws/video/ [154.72.202.36:58961]
+WebSocket CONNECT /ws/video/ [154.72.202.36:58961]
+WebSocket DISCONNECT /ws/video/ [154.72.202.36:58961]
+WebSocket DISCONNECT /ws/video/ [154.72.202.36:65396]
+Unauthorized: /api/auth/verify/
+HTTP GET /api/auth/verify/ 401 [0.01, 154.72.202.36:31036]
+Unauthorized: /api/auth/verify/
+HTTP GET /api/auth/verify/ 401 [0.01, 154.72.202.36:31036]
+Not Found: /api/auth/token/refresh/
+HTTP POST /api/auth/token/refresh/ 404 [0.02, 154.72.202.36:31036]
+Not Found: /api/auth/token/refresh/
+HTTP POST /api/auth/token/refresh/ 404 [0.02, 154.72.202.36:61480]
+HTTP POST /api/auth/login/ 200 [0.91, 154.72.202.36:33318]
+HTTP GET /api/auth/verify/ 200 [0.03, 154.72.202.36:33318]
+HTTP GET /api/auth/verify/ 200 [0.02, 154.72.202.36:33318]
+HTTP GET /api/aimodels/previous_results/ 200 [0.02, 154.72.202.36:1583]
+WebSocket HANDSHAKING /ws/video/ [154.72.202.36:27105]
+WebSocket CONNECT /ws/video/ [154.72.202.36:27105]
+HTTP GET /api/aimodels/previous_results/ 200 [0.03, 154.72.202.36:33318]
+WebSocket HANDSHAKING /ws/video/ [154.72.202.36:61737]
+WebSocket CONNECT /ws/video/ [154.72.202.36:61737]
+HTTP GET /api/user/profile/ 200 [0.05, 154.72.202.36:11277]
+HTTP GET /api/user/profile/ 200 [0.03, 154.72.202.36:11277]
+HTTP OPTIONS /api/user/update/ 200 [0.00, 154.72.202.36:3488]
+Bad Request: /api/user/update/
+HTTP PUT /api/user/update/ 400 [0.09, 154.72.202.36:3488]
+WebSocket DISCONNECT /ws/video/ [154.72.202.36:61737]
+WebSocket DISCONNECT /ws/video/ [154.72.202.36:27105]
+HTTP GET /api/auth/verify/ 200 [0.02, 154.72.202.36:3488]
+HTTP GET /api/auth/verify/ 200 [0.03, 154.72.202.36:3488]
+HTTP GET /api/aimodels/previous_results/ 200 [0.02, 154.72.202.36:60649]
+WebSocket HANDSHAKING /ws/video/ [154.72.202.36:23088]
+WebSocket CONNECT /ws/video/ [154.72.202.36:23088]
+HTTP GET /api/aimodels/previous_results/ 200 [0.02, 154.72.202.36:3488]
+WebSocket HANDSHAKING /ws/video/ [154.72.202.36:55846]
+WebSocket CONNECT /ws/video/ [154.72.202.36:55846]
+WebSocket DISCONNECT /ws/video/ [154.72.202.36:23088]
+WebSocket DISCONNECT /ws/video/ [154.72.202.36:55846]
+Unauthorized: /api/auth/verify/
+HTTP GET /api/auth/verify/ 401 [0.01, 154.72.202.36:3488]
+Unauthorized: /api/auth/verify/
+HTTP GET /api/auth/verify/ 401 [0.01, 154.72.202.36:3488]
+Not Found: /api/auth/token/refresh/
+HTTP POST /api/auth/token/refresh/ 404 [0.02, 154.72.202.36:60649]
+Not Found: /api/auth/token/refresh/
+HTTP POST /api/auth/token/refresh/ 404 [0.02, 154.72.202.36:3488]
+HTTP POST /api/auth/login/ 200 [0.71, 154.72.202.36:60649]
+HTTP GET /api/auth/verify/ 200 [0.02, 154.72.202.36:60649]
+HTTP GET /api/auth/verify/ 200 [0.02, 154.72.202.36:60649]
+HTTP GET /api/aimodels/previous_results/ 200 [0.02, 154.72.202.36:19143]
+WebSocket HANDSHAKING /ws/video/ [154.72.202.36:4385]
+WebSocket CONNECT /ws/video/ [154.72.202.36:4385]
+HTTP GET /api/aimodels/previous_results/ 200 [0.02, 154.72.202.36:60649]
+WebSocket HANDSHAKING /ws/video/ [154.72.202.36:24137]
+WebSocket CONNECT /ws/video/ [154.72.202.36:24137]
+HTTP GET /api/auth/verify/ 200 [0.02, 154.72.202.36:2689]
+HTTP GET /api/auth/verify/ 200 [0.02, 154.72.202.36:2689]
+HTTP GET /api/user/ 200 [0.03, 154.72.202.36:49380]
+HTTP GET /api/user/ 200 [0.02, 154.72.202.36:2689]
+HTTP GET /api/appointments/ 200 [0.03, 154.72.202.36:49380]
+HTTP GET /api/appointments/ 200 [0.02, 154.72.202.36:2689]
+HTTP GET /api/user/profile/ 200 [0.02, 154.72.202.36:2689]
+HTTP GET /api/user/profile/ 200 [0.02, 154.72.202.36:49380]
+Bad Request: /api/user/update/
+HTTP PUT /api/user/update/ 400 [0.02, 154.72.202.36:33937]
+WebSocket DISCONNECT /ws/video/ [154.72.202.36:4385]
+WebSocket DISCONNECT /ws/video/ [154.72.202.36:24137]
+HTTP GET /api/auth/verify/ 200 [1.41, 154.72.202.36:65452]
+HTTP GET /api/auth/verify/ 200 [0.04, 154.72.202.36:65452]
+WebSocket HANDSHAKING /ws/video/ [154.72.202.36:3083]
+HTTP GET /api/aimodels/previous_results/ 200 [0.21, 154.72.202.36:53679]
+WebSocket CONNECT /ws/video/ [154.72.202.36:3083]
+HTTP GET /api/aimodels/previous_results/ 200 [0.03, 154.72.202.36:65452]
+WebSocket HANDSHAKING /ws/video/ [154.72.202.36:8016]
+WebSocket CONNECT /ws/video/ [154.72.202.36:8016]
+HTTP GET /api/user/profile/ 200 [0.06, 154.72.202.36:65452]
+HTTP GET /api/user/profile/ 200 [0.05, 154.72.202.36:65452]
+Bad Request: /api/user/update/
+HTTP PUT /api/user/update/ 400 [0.11, 154.72.202.36:65452]
+WebSocket DISCONNECT /ws/video/ [154.72.202.36:8016]
+WebSocket DISCONNECT /ws/video/ [154.72.202.36:3083]
+Unauthorized: /api/auth/verify/
+HTTP GET /api/auth/verify/ 401 [0.01, 154.72.202.36:65452]
+Unauthorized: /api/auth/verify/
+HTTP GET /api/auth/verify/ 401 [0.01, 154.72.202.36:65452]
+Not Found: /api/auth/token/refresh/
+Not Found: /api/auth/token/refresh/
+HTTP POST /api/auth/token/refresh/ 404 [0.23, 154.72.202.36:33856]
+HTTP POST /api/auth/token/refresh/ 404 [0.15, 154.72.202.36:65452]
+HTTP POST /api/auth/login/ 200 [0.85, 154.72.202.36:48152]
+HTTP GET /api/auth/verify/ 200 [0.02, 154.72.202.36:48152]
+HTTP GET /api/auth/verify/ 200 [0.02, 154.72.202.36:48152]
+WebSocket HANDSHAKING /ws/video/ [154.72.202.36:26561]
+HTTP GET /api/aimodels/previous_results/ 200 [0.03, 154.72.202.36:48003]
+WebSocket CONNECT /ws/video/ [154.72.202.36:26561]
+HTTP GET /api/aimodels/previous_results/ 200 [0.02, 154.72.202.36:48152]
+WebSocket HANDSHAKING /ws/video/ [154.72.202.36:4054]
+WebSocket CONNECT /ws/video/ [154.72.202.36:4054]
+HTTP GET /api/user/profile/ 200 [0.02, 154.72.202.36:48152]
+HTTP GET /api/user/profile/ 200 [0.02, 154.72.202.36:48003]
+Bad Request: /api/user/update/
+HTTP PUT /api/user/update/ 400 [0.05, 154.72.202.36:48003]
+HTTP GET /admin/login/?next=/admin/ 200 [0.28, 154.72.202.36:16796]
+Not Found: /
+HTTP GET / 404 [0.01, 154.72.202.36:63554]
+HTTP GET /admin/ 302 [0.01, 154.72.202.36:10701]
+HTTP GET /admin/login/?next=/admin/ 200 [0.01, 154.72.202.36:10701]
+HTTP GET /static/admin/css/base.css 304 [0.00, 154.72.202.36:10701]
+HTTP GET /static/admin/css/dark_mode.css 304 [0.01, 154.72.202.36:10281]
+HTTP GET /static/admin/css/nav_sidebar.css 304 [0.01, 154.72.202.36:4924]
+HTTP GET /static/admin/css/login.css 304 [0.01, 154.72.202.36:48105]
+HTTP GET /static/admin/js/theme.js 304 [0.01, 154.72.202.36:51202]
+HTTP GET /static/admin/css/responsive.css 304 [0.01, 154.72.202.36:20192]
+HTTP GET /static/admin/js/nav_sidebar.js 304 [0.00, 154.72.202.36:20192]
+WebSocket DISCONNECT /ws/video/ [154.72.202.36:26561]
+WebSocket DISCONNECT /ws/video/ [154.72.202.36:4054]
